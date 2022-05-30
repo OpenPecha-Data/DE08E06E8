@@ -1,0 +1,22 @@
+id: DE08E06E8
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-01-07T13:50:52+00:00'
+last_modified: '2022-05-30T04:26:53.832895+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    4dc9:
+      image_group_id: I1PD95941
+      title: ལྷོ་ཟ་མོ་ཚངས་དབྱངས་ལ་སྡུག་བསྔལ་གྱི་བྱེ་བྲག་བསྟན་པ།
+      total_pages: 1144
+      order: 96
+      base_file: 4dc9.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
